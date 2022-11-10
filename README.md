@@ -1,1 +1,1 @@
-# GramAcceptability_YesNo_canvas
+# GramAccept_YN_mob_clickresp
